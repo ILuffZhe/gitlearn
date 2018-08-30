@@ -10,3 +10,5 @@ bug is fixed
 work interruptted to fix bug
 
 to test git pull
+
+为什么总是不成功
